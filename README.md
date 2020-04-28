@@ -2,4 +2,4 @@
 
 
 
-#### 「简单」[两数之和](/simple-two-sum)
+#### 「简单」[两数之和](simple-two-sum)
