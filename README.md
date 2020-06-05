@@ -1,7 +1,5 @@
 # leetcode
 
-
-
 #### 1.「简单」[两数之和](simple-two-sum)
 #### 2.「简单」[替换空格](replace-space)
 #### 3.「简单」[回文数](palindrome)
