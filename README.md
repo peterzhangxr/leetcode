@@ -22,3 +22,7 @@
 #### 18.「简单」[按奇偶排序数组](sort-array-by-parity)
 #### 19.「简单」[按奇偶排序数组II](sort-array-by-parity2)
 #### 20.「简单」[顺时针打印矩阵](spiral-order)
+#### 21.「简单」[删除排序数组中的重复项](remove-duplicate-array)
+#### 22.「简单」[合并排序的数组](merge-array)
+#### 23.「简单」[数组的相对排序](relative-sort-array)
+#### 24.「简单」[第一个只出现一次的字符](first-uniq-char)
